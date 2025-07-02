@@ -1,0 +1,12 @@
+[ {
+  "baseItem" : {
+    "id" : "_1YgpoFcMEfClxZBxXZdqDA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "HashUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
